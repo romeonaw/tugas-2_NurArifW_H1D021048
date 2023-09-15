@@ -6,5 +6,5 @@ Buatlah tampilan form yang berisi nama, nim, dan tahun lahir pada file `ui/form_
 
 ## Hasil Screenshot
 
-![Contoh Form](form.png)
-![Contoh Hasil](hasil.png)
+![alt text](https://github.com/romeonaw/tugas-2_NurArifW_H1D021048/blob/main/A_SS1.png?raw=true)
+![alt text](A_SS2.png)
