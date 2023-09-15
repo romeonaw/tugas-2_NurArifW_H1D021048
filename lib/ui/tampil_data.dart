@@ -22,7 +22,7 @@ class TampilData extends StatelessWidget {
           child: Column(
             children: [
               Text(
-                  "Nama Saya $nama, NIM $nim , dan umur saya adalah $umurSaya"),
+                  "Nama Saya $nama, NIM $nim , dan umur saya adalah $umurSaya tahun"),
               //Text("Nama Produk : $namaProduk"),
               //Text("Harga Produk : $hargaProduk"),
             ],
